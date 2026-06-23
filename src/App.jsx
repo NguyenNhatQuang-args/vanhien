@@ -316,7 +316,7 @@ function AboutSection() {
 function WorldCupSection() {
   const events = [
     {
-      img: '/wc-hero.jpg',
+      img: '/img/bongda2.jpg',
       tag: 'World Cup 2026',
       tagClass: 'coral-bg',
       title: 'VHU cùng World Cup 2026 — Bùng nổ Đam mê',
@@ -325,7 +325,7 @@ function WorldCupSection() {
       location: 'VHU Campus'
     },
     {
-      img: '/wc-spirit.jpg',
+      img: '/img/bongda3.jpg',
       tag: 'VHU Event',
       tagClass: 'teal-bg',
       title: 'Giải Bóng đá Sinh viên VHU Cup 2026',
@@ -334,7 +334,7 @@ function WorldCupSection() {
       location: 'Sân VHU'
     },
     {
-      img: '/wc-field.jpg',
+      img: '/img/lekhaimacgiaibongdaVanHien.jpg',
       tag: 'Thể thao',
       tagClass: 'gold-bg',
       title: 'Cơ sở Thể thao Hiện đại tại VHU',
