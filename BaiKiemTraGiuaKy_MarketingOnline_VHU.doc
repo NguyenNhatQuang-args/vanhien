@@ -1,0 +1,347 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset="utf-8">
+<title>Bài Kiểm Tra Giữa Kỳ - Marketing Online - Đại học Văn Hiến - World Cup 2026</title>
+<!--[if gte mso 9]>
+<xml><w:WordDocument><w:View>Print</w:View><w:Zoom>100</w:Zoom><w:DoNotOptimizeForBrowser/></w:WordDocument></xml>
+<![endif]-->
+<style>
+  @page { size: A4; margin: 2.54cm; }
+  body { font-family: 'Times New Roman', Times, serif; font-size: 13pt; line-height: 1.5; color: #000; background: #fff; }
+  .header-table { width: 100%; border-collapse: collapse; margin-bottom: 10pt; }
+  .header-table td { vertical-align: top; padding: 4pt; }
+  .center { text-align: center; }
+  .bold { font-weight: bold; }
+  .title-main { font-size: 18pt; font-weight: bold; text-align: center; color: #0077B6; margin: 20pt 0 8pt; }
+  .title-sub { font-size: 14pt; font-weight: bold; text-align: center; color: #E63946; margin-bottom: 20pt; }
+  .section-title { font-size: 14pt; font-weight: bold; color: #0077B6; margin-top: 18pt; margin-bottom: 8pt; border-bottom: 2pt solid #0077B6; padding-bottom: 4pt; }
+  .sub-title { font-size: 13pt; font-weight: bold; color: #333; margin-top: 12pt; margin-bottom: 6pt; }
+  p { text-align: justify; margin: 6pt 0; text-indent: 1.27cm; }
+  ul, ol { margin: 6pt 0 6pt 1.27cm; }
+  li { margin-bottom: 4pt; }
+  table.info-table { width: 100%; border-collapse: collapse; margin: 10pt 0; }
+  table.info-table td, table.info-table th { border: 1pt solid #999; padding: 6pt 10pt; text-align: left; }
+  table.info-table th { background-color: #CAF0F8; font-weight: bold; color: #0077B6; }
+  .highlight-box { background-color: #CAF0F8; border-left: 4pt solid #00B4D8; padding: 10pt 14pt; margin: 12pt 0; }
+  .highlight-box.coral { background-color: #FEE2E5; border-left-color: #E63946; }
+  .page-break { page-break-before: always; }
+  .footer-text { text-align: center; font-size: 10pt; color: #666; margin-top: 30pt; border-top: 1pt solid #ccc; padding-top: 8pt; }
+  .screenshot-placeholder { border: 2pt dashed #00B4D8; background-color: #f5f5f5; padding: 30pt; text-align: center; color: #666; margin: 12pt 0; font-style: italic; }
+</style>
+</head>
+<body>
+
+<!-- TRANG BÌA -->
+<table class="header-table">
+<tr>
+<td style="width:50%; text-align:center;">
+<p style="text-indent:0; font-size:12pt;"><b>BỘ GIÁO DỤC VÀ ĐÀO TẠO</b></p>
+<p style="text-indent:0; font-size:13pt;"><b>TRƯỜNG ĐẠI HỌC VĂN HIẾN</b></p>
+</td>
+<td style="width:50%; text-align:center;">
+<p style="text-indent:0; font-size:12pt;"><b>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</b></p>
+<p style="text-indent:0; font-size:12pt;"><b><u>Độc lập – Tự do – Hạnh phúc</u></b></p>
+</td>
+</tr>
+</table>
+
+<br/><br/><br/>
+
+<div class="title-main">⚽ BÀI KIỂM TRA GIỮA KỲ</div>
+<div class="title-sub">MÔN: MARKETING ONLINE — CHỦ ĐỀ WORLD CUP 2026</div>
+
+<br/>
+
+<table class="info-table">
+<tr><th style="width:35%;">Thông tin</th><th>Chi tiết</th></tr>
+<tr><td><b>Đề tài</b></td><td>Xây dựng Landing Page quảng bá hình ảnh Trường Đại học Văn Hiến (VHU) — Chủ đề: World Cup 2026 × VHU</td></tr>
+<tr><td><b>Họ và tên sinh viên</b></td><td>[Họ và tên sinh viên]</td></tr>
+<tr><td><b>MSSV</b></td><td>[Mã số sinh viên]</td></tr>
+<tr><td><b>Lớp</b></td><td>[Tên lớp]</td></tr>
+<tr><td><b>Giảng viên hướng dẫn</b></td><td>[Tên giảng viên]</td></tr>
+<tr><td><b>Ngày nộp</b></td><td>23/06/2026</td></tr>
+<tr><td><b>Công nghệ sử dụng</b></td><td>React + Vite, GSAP (ScrollTrigger + ScrollToPlugin), HTML5, CSS3, JavaScript ES6+</td></tr>
+</table>
+
+<br/><br/><br/>
+<p style="text-align:center; text-indent:0;"><i>TP. Hồ Chí Minh, tháng 6 năm 2026</i></p>
+
+<div class="page-break"></div>
+
+<div class="section-title">MỤC LỤC</div>
+<p style="text-indent:0;">I. Giới thiệu đề tài và mục tiêu</p>
+<p style="text-indent:0;">II. Phân tích đối tượng mục tiêu</p>
+<p style="text-indent:0;">III. Ý tưởng chủ đề World Cup 2026 và chiến lược nội dung</p>
+<p style="text-indent:0;">IV. Thiết kế và cấu trúc Landing Page</p>
+<p style="text-indent:0;">V. Công nghệ sử dụng (React, Vite, GSAP)</p>
+<p style="text-indent:0;">VI. Nội dung chi tiết từng section</p>
+<p style="text-indent:0;">VII. Hình ảnh minh họa sản phẩm</p>
+<p style="text-indent:0;">VIII. Đánh giá hiệu quả và SEO</p>
+<p style="text-indent:0;">IX. Kết luận</p>
+<p style="text-indent:0;">X. Tài liệu tham khảo</p>
+
+<div class="page-break"></div>
+
+<!-- PHẦN I -->
+<div class="section-title">I. GIỚI THIỆU ĐỀ TÀI VÀ MỤC TIÊU</div>
+
+<div class="sub-title">1.1. Giới thiệu đề tài</div>
+<p>Bài kiểm tra giữa kỳ môn Marketing Online yêu cầu sinh viên xây dựng 01 landing page quảng bá hình ảnh Trường Đại học Văn Hiến (VHU) đến khách hàng mục tiêu là phụ huynh và học sinh THPT dự định chọn ngành chọn trường.</p>
+
+<p>Chủ đề được lựa chọn: <b>"Tinh thần World Cup 2026 × Đại học Văn Hiến"</b> — lấy cảm hứng từ FIFA World Cup 2026™, giải bóng đá lớn nhất hành tinh đang diễn ra tại Mỹ, Mexico và Canada vào mùa hè 2026. Đây là lần đầu tiên World Cup được tổ chức tại 3 quốc gia với 48 đội tham dự.</p>
+
+<p>Ý tưởng kết hợp tinh thần thể thao bóng đá — đam mê, teamwork, chiến thắng — với hình ảnh đại học, nơi sinh viên cũng "ra sân" chinh phục tương lai.</p>
+
+<div class="sub-title">1.2. Mục tiêu</div>
+<ul>
+<li><b>Quảng bá hình ảnh VHU:</b> Giới thiệu trường đến phụ huynh và học sinh qua chủ đề World Cup hấp dẫn, thời sự</li>
+<li><b>Thu hút tuyển sinh:</b> Tăng đăng ký tuyển sinh 2026 qua CTA hiệu quả</li>
+<li><b>Truyền tải giá trị:</b> Thể hiện VHU là nơi phát triển toàn diện — tri thức, thể chất, tinh thần</li>
+<li><b>Thiết kế chuyên nghiệp:</b> Landing page light mode sáng, hiện đại với GSAP animation mượt mà</li>
+</ul>
+
+<!-- PHẦN II -->
+<div class="section-title">II. PHÂN TÍCH ĐỐI TƯỢNG MỤC TIÊU</div>
+
+<table class="info-table">
+<tr><th>Đối tượng</th><th>Đặc điểm</th><th>Nhu cầu</th></tr>
+<tr>
+<td><b>Học sinh THPT</b> (lớp 11-12)</td>
+<td>16-18 tuổi, yêu thể thao, theo dõi World Cup 2026, sử dụng mạng xã hội</td>
+<td>Trường đại học năng động, có hoạt động thể thao, ngành học hấp dẫn</td>
+</tr>
+<tr>
+<td><b>Phụ huynh</b></td>
+<td>35-55 tuổi, quan tâm chất lượng, cơ sở vật chất, việc làm cho con</td>
+<td>Trường uy tín, phát triển toàn diện, cam kết việc làm</td>
+</tr>
+</table>
+
+<div class="highlight-box">
+<p style="text-indent:0;"><b>Insight:</b> World Cup 2026 là sự kiện toàn cầu thu hút sự chú ý của mọi độ tuổi. Kết hợp chủ đề này vào marketing giáo dục giúp VHU tiếp cận đối tượng mục tiêu qua kênh cảm xúc — đam mê thể thao, tinh thần chiến thắng.</p>
+</div>
+
+<!-- PHẦN III -->
+<div class="section-title">III. Ý TƯỞNG CHỦ ĐỀ WORLD CUP 2026 VÀ CHIẾN LƯỢC NỘI DUNG</div>
+
+<div class="sub-title">3.1. Chủ đề: "Tinh thần World Cup × Đại học Văn Hiến"</div>
+<p>FIFA World Cup 2026™ là lần đầu tiên giải đấu tổ chức tại 3 quốc gia: Mỹ, Mexico và Canada, với 48 đội tuyển — lớn nhất lịch sử. Sự kiện trùng thời điểm mùa tuyển sinh 2026 tạo cơ hội marketing tuyệt vời.</p>
+
+<p>Ý tưởng sáng tạo: So sánh ẩn dụ giữa bóng đá và đại học:</p>
+<ul>
+<li>"Ra sân" = Bước vào đại học</li>
+<li>"Đội hình" = Các ngành đào tạo</li>
+<li>"Sân nhà" = Campus VHU</li>
+<li>"Ghi bàn" = Đạt thành tích</li>
+<li>"Fair-play" = Tinh thần học tập</li>
+</ul>
+
+<div class="sub-title">3.2. Thông điệp chính</div>
+<div class="highlight-box coral">
+<p style="text-indent:0; font-size:14pt;"><b>"Tinh thần World Cup — Tại Đại học Văn Hiến. Sẵn sàng ra sân cùng VHU!"</b></p>
+</div>
+
+<div class="sub-title">3.3. Bảng màu — Light Mode</div>
+<table class="info-table">
+<tr><th>Tên màu</th><th>Mã HEX</th><th>Ý nghĩa</th></tr>
+<tr><td>Teal (chủ đạo)</td><td>#00B4D8</td><td>Màu chính World Cup 2026, năng lượng, tươi mới</td></tr>
+<tr><td>Teal Deep</td><td>#0077B6</td><td>Chuyên nghiệp, tin cậy</td></tr>
+<tr><td>Coral Red</td><td>#E63946</td><td>Đam mê, năng lượng, CTA mạnh mẽ</td></tr>
+<tr><td>Gold</td><td>#FFB700</td><td>Chiến thắng, vinh quang, cúp vàng</td></tr>
+<tr><td>Green</td><td>#06D6A0</td><td>Sân cỏ, tươi xanh, phát triển</td></tr>
+<tr><td>White</td><td>#FFFFFF</td><td>Nền sáng, sạch sẽ, chuyên nghiệp</td></tr>
+<tr><td>Navy</td><td>#1D3557</td><td>Nghiêm túc, đáng tin, heading text</td></tr>
+</table>
+
+<div class="sub-title">3.4. Chiến lược nội dung</div>
+<table class="info-table">
+<tr><th>Yếu tố</th><th>Chiến lược</th></tr>
+<tr><td>Visual</td><td>Light mode sáng, tông teal-coral-gold, hình ảnh sân bóng + campus VHU thực tế</td></tr>
+<tr><td>Copy</td><td>Ẩn dụ bóng đá xuyên suốt, ngôn ngữ trẻ trung, nhiệt huyết</td></tr>
+<tr><td>UX</td><td>GSAP snap scroll mượt mà, reveal animation khi cuộn, dot navigation</td></tr>
+<tr><td>Social proof</td><td>Testimonials, số liệu (27+ năm, 15,000+ SV, 95% việc làm)</td></tr>
+</table>
+
+<div class="page-break"></div>
+
+<!-- PHẦN IV -->
+<div class="section-title">IV. THIẾT KẾ VÀ CẤU TRÚC LANDING PAGE</div>
+
+<div class="sub-title">4.1. Cấu trúc tổng thể — 9 Sections + Footer</div>
+<table class="info-table">
+<tr><th>STT</th><th>Section</th><th>Mục đích</th></tr>
+<tr><td>1</td><td><b>Hero</b></td><td>Ấn tượng đầu tiên: hình VHU thực tế, World Cup badge, CTA, số liệu</td></tr>
+<tr><td>2</td><td><b>About (Giới thiệu)</b></td><td>Thông tin VHU, ảnh HungHau Campus, 6 đặc điểm</td></tr>
+<tr><td>3</td><td><b>World Cup Spirit</b></td><td>3 sự kiện WC2026 × VHU: xem bóng, giải SV, cơ sở thể thao</td></tr>
+<tr><td>4</td><td><b>Programs (Ngành học)</b></td><td>8 nhóm ngành = "Đội hình hoàn hảo"</td></tr>
+<tr><td>5</td><td><b>Why VHU</b></td><td>6 lý do = "6 cầu thủ xuất sắc"</td></tr>
+<tr><td>6</td><td><b>Campus</b></td><td>"Sân nhà" — gallery 3 campus</td></tr>
+<tr><td>7</td><td><b>Admission</b></td><td>4 phương thức = "4 cách vào sân"</td></tr>
+<tr><td>8</td><td><b>Testimonials</b></td><td>"Đội hình cảm nhận" — SV & phụ huynh</td></tr>
+<tr><td>9</td><td><b>CTA + Contact</b></td><td>"Ra sân cùng VHU" — đăng ký + liên hệ</td></tr>
+</table>
+
+<div class="sub-title">4.2. Đặc điểm thiết kế mới</div>
+<ul>
+<li><b>Light Mode:</b> Nền trắng (#FFFFFF) và xám nhạt (#F7FAFC) — sáng, chuyên nghiệp</li>
+<li><b>GSAP Snap Scroll:</b> Mỗi lần cuộn = 1 section mới, mượt mà trên cả desktop và mobile</li>
+<li><b>GSAP ScrollTrigger:</b> Các phần tử xuất hiện mượt khi cuộn vào viewport</li>
+<li><b>Scroll Dots:</b> Chấm tròn navigation bên phải màn hình</li>
+<li><b>Ảnh thực tế VHU:</b> Sử dụng ảnh HungHau Campus thực tế (DH-Van-Hien.jpg)</li>
+<li><b>Responsive:</b> Tối ưu cho mọi kích thước màn hình</li>
+</ul>
+
+<!-- PHẦN V -->
+<div class="section-title">V. CÔNG NGHỆ SỬ DỤNG</div>
+
+<table class="info-table">
+<tr><th>Công nghệ</th><th>Phiên bản</th><th>Vai trò</th></tr>
+<tr><td><b>React</b></td><td>19.x</td><td>Thư viện UI component-based</td></tr>
+<tr><td><b>Vite</b></td><td>8.x</td><td>Build tool nhanh, HMR</td></tr>
+<tr><td><b>GSAP</b></td><td>3.x</td><td>Animation library: ScrollTrigger (reveal on scroll), ScrollToPlugin (snap scroll, smooth navigation)</td></tr>
+<tr><td><b>CSS3</b></td><td>—</td><td>CSS Variables, Flexbox, Grid, Transitions, Custom Properties</td></tr>
+<tr><td><b>JavaScript ES6+</b></td><td>—</td><td>React Hooks (useState, useEffect, useRef, useLayoutEffect), Intersection Observer</td></tr>
+<tr><td><b>Google Fonts</b></td><td>—</td><td>Font "Be Vietnam Pro" — font chữ Việt Nam hiện đại</td></tr>
+</table>
+
+<div class="sub-title">5.1. GSAP — Chi tiết kỹ thuật</div>
+<ul>
+<li><b>gsap.registerPlugin(ScrollTrigger, ScrollToPlugin)</b> — đăng ký 2 plugin GSAP</li>
+<li><b>ScrollTrigger.create({ snap: ... })</b> — snap scroll tự động: mỗi cuộn 1 section</li>
+<li><b>gsap.to(elements, { scrollTrigger: ... })</b> — animation reveal khi section vào viewport</li>
+<li><b>gsap.to(window, { scrollTo: ... })</b> — smooth scroll khi click navigation</li>
+<li><b>Stagger animation:</b> Các phần tử xuất hiện lần lượt (stagger: 0.12s)</li>
+<li><b>4 loại animation class:</b> gs-hidden (fadeUp), gs-hidden-left (slideLeft), gs-hidden-right (slideRight), gs-hidden-scale (scaleIn)</li>
+</ul>
+
+<div class="page-break"></div>
+
+<!-- PHẦN VI -->
+<div class="section-title">VI. NỘI DUNG CHI TIẾT TỪNG SECTION</div>
+
+<div class="sub-title">6.1. Hero Section</div>
+<p>Layout 2 cột: nội dung bên trái, ảnh VHU thực tế bên phải. Bao gồm:</p>
+<ul>
+<li>Badge "⚽ WORLD CUP 2026 × VHU"</li>
+<li>Tiêu đề: "Tinh thần World Cup — Tại Đại học Văn Hiến"</li>
+<li>CTA: "Đăng ký Tuyển sinh 2026" + "Tìm hiểu thêm"</li>
+<li>4 counter animation: 27+ năm, 15,000+ SV, 40+ ngành, 95% việc làm</li>
+<li>Ảnh DH-Van-Hien.jpg (HungHau Campus) với 2 floating badge</li>
+<li>GSAP timeline animation khi page load</li>
+</ul>
+
+<div class="sub-title">6.2. About — Giới thiệu VHU</div>
+<p>Layout 2 cột: ảnh VHU + badge "1997" bên trái, nội dung + 6 features bên phải. GSAP slide-left/slide-right animation.</p>
+
+<div class="sub-title">6.3. World Cup Spirit</div>
+<p>3 cards sự kiện WC2026 × VHU: Xem World Cup cùng bạn bè, Giải bóng đá sinh viên, Cơ sở thể thao hiện đại.</p>
+
+<div class="sub-title">6.4. Programs — "Đội hình Hoàn hảo"</div>
+<p>8 program cards với icon: CNTT, QTKD, Thiết kế, Du lịch, Luật, Ngôn ngữ, Truyền thông, Kiến trúc. GSAP scale-in animation.</p>
+
+<div class="sub-title">6.5. Why VHU — "6 cầu thủ xuất sắc"</div>
+<p>6 lý do: Cơ sở 5 sao, Kết nối DN, Hội nhập QT, Học bổng, Thể thao, Đào tạo thực tiễn.</p>
+
+<div class="sub-title">6.6. Campus — "Sân nhà"</div>
+<p>Gallery: HungHau Campus (ảnh thực VHU), Harmony Campus, myU Campus.</p>
+
+<div class="sub-title">6.7. Admission — "4 cách vào sân"</div>
+<p>4 phương thức xét tuyển: Tốt nghiệp THPT, Học bạ, ĐGNL, Xét tuyển thẳng.</p>
+
+<div class="sub-title">6.8. Testimonials — "Đội hình cảm nhận"</div>
+<p>3 testimonials: Cựu SV QTKD, Phụ huynh, Cựu SV Ngôn ngữ Nhật.</p>
+
+<div class="sub-title">6.9. CTA — "Sẵn sàng ra sân?"</div>
+<p>Gradient box CTA + 3 contact cards (Hotline, Email, Website).</p>
+
+<!-- PHẦN VII -->
+<div class="section-title">VII. HÌNH ẢNH MINH HỌA</div>
+
+<table class="info-table">
+<tr><th>STT</th><th>Tên file</th><th>Mô tả</th><th>Vị trí</th></tr>
+<tr><td>1</td><td><b>DH-Van-Hien.jpg</b></td><td>Ảnh thực tế HungHau Campus — sinh viên mặc áo dài xanh trước cổng trường</td><td>Hero, About, Campus</td></tr>
+<tr><td>2</td><td>wc-hero.jpg</td><td>Sân vận động bóng đá rực rỡ, confetti, khán đài đầy màu sắc</td><td>World Cup Spirit</td></tr>
+<tr><td>3</td><td>wc-spirit.jpg</td><td>Sinh viên xem bóng đá trên màn hình lớn tại campus</td><td>World Cup Spirit, Campus</td></tr>
+<tr><td>4</td><td>wc-field.jpg</td><td>Sân bóng đá xanh mướt với trái bóng, ngày nắng đẹp</td><td>World Cup Spirit</td></tr>
+<tr><td>5</td><td>wc-ball.jpg</td><td>Quả bóng đá hiện đại với hiệu ứng teal-coral-gold</td><td>Decoration</td></tr>
+</table>
+
+<div class="screenshot-placeholder">
+[Chèn ảnh chụp màn hình Landing Page tại đây]<br/>
+Truy cập: http://localhost:5173/<br/>
+Chụp Full Page Screenshot từ trình duyệt
+</div>
+
+<!-- PHẦN VIII -->
+<div class="section-title">VIII. ĐÁNH GIÁ HIỆU QUẢ VÀ SEO</div>
+
+<div class="sub-title">8.1. SEO On-page</div>
+<table class="info-table">
+<tr><th>Yếu tố</th><th>Triển khai</th></tr>
+<tr><td>Title Tag</td><td>"Đại học Văn Hiến VHU × World Cup 2026 | Tuyển Sinh"</td></tr>
+<tr><td>Meta Description</td><td>160 ký tự chứa keywords: VHU, World Cup 2026, tuyển sinh, bóng đá</td></tr>
+<tr><td>Heading</td><td>H1 duy nhất tại Hero, H2/H3 đúng hierarchy</td></tr>
+<tr><td>Semantic HTML</td><td>section, nav, footer, article chuẩn HTML5</td></tr>
+<tr><td>Alt Text</td><td>Mô tả tiếng Việt cho mọi hình ảnh</td></tr>
+</table>
+
+<div class="sub-title">8.2. UX/Animation</div>
+<ul>
+<li><b>GSAP Snap Scroll:</b> Trải nghiệm cuộn mượt mà, mỗi lần cuộn = 1 section</li>
+<li><b>ScrollTrigger Reveal:</b> Các phần tử animate vào khi scroll, tăng engagement</li>
+<li><b>Scroll Dots Navigation:</b> Dot indicator bên phải giúp người dùng biết vị trí hiện tại</li>
+<li><b>Counter Animation:</b> Số liệu đếm tăng dần, tạo ấn tượng mạnh</li>
+<li><b>Hover Effects:</b> Cards nâng lên, icon xoay, border color thay đổi</li>
+</ul>
+
+<div class="sub-title">8.3. Conversion Optimization</div>
+<ul>
+<li>3 điểm CTA: Hero, Admission, CTA section</li>
+<li>Social proof: Testimonials, số liệu thống kê</li>
+<li>Thông tin liên hệ rõ ràng: Hotline miễn phí 1800 1568</li>
+<li>Link trực tiếp đến tuyensinh.vhu.edu.vn</li>
+</ul>
+
+<div class="page-break"></div>
+
+<!-- PHẦN IX -->
+<div class="section-title">IX. KẾT LUẬN</div>
+
+<p>Bài kiểm tra giữa kỳ đã hoàn thành việc xây dựng landing page quảng bá Trường Đại học Văn Hiến theo chủ đề World Cup 2026 — một sáng tạo marketing kết hợp sự kiện thể thao toàn cầu với giáo dục đại học.</p>
+
+<p>Sản phẩm đáp ứng đầy đủ các yêu cầu:</p>
+<ul>
+<li>✅ React + Vite kết hợp GSAP (framework animation chuyên nghiệp)</li>
+<li>✅ <b>Light mode sáng</b>, tông màu World Cup 2026 (teal, coral, gold)</li>
+<li>✅ Chủ đề World Cup 2026 — bóng đá là chủ đề chính</li>
+<li>✅ <b>Ảnh thực tế VHU</b> (DH-Van-Hien.jpg — HungHau Campus)</li>
+<li>✅ GSAP snap scroll mượt mà + reveal animation</li>
+<li>✅ Quảng bá VHU đến phụ huynh và học sinh</li>
+<li>✅ Responsive design trên mọi thiết bị</li>
+<li>✅ SEO on-page tối ưu</li>
+</ul>
+
+<p>Landing page không chỉ là bài tập marketing mà còn là sản phẩm có thể ứng dụng thực tế trong chiến dịch tuyển sinh VHU mùa World Cup 2026, khai thác hiệu quả trending topic để thu hút đối tượng mục tiêu.</p>
+
+<!-- PHẦN X -->
+<div class="section-title">X. TÀI LIỆU THAM KHẢO</div>
+
+<ol>
+<li>Website Trường Đại học Văn Hiến — <a href="https://vhu.edu.vn">https://vhu.edu.vn</a></li>
+<li>Website tuyển sinh VHU — <a href="https://tuyensinh.vhu.edu.vn">https://tuyensinh.vhu.edu.vn</a></li>
+<li>FIFA World Cup 2026™ — <a href="https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026">https://www.fifa.com</a></li>
+<li>GSAP (GreenSock) — <a href="https://gsap.com">https://gsap.com</a></li>
+<li>React.js Documentation — <a href="https://react.dev">https://react.dev</a></li>
+<li>Vite Documentation — <a href="https://vite.dev">https://vite.dev</a></li>
+<li>Google Fonts — Be Vietnam Pro — <a href="https://fonts.google.com/specimen/Be+Vietnam+Pro">https://fonts.google.com</a></li>
+</ol>
+
+<br/><br/>
+<div class="footer-text">
+<p style="text-indent:0;">--- Hết ---</p>
+<p style="text-indent:0;">⚽ Bài kiểm tra giữa kỳ — Môn Marketing Online — Trường Đại học Văn Hiến</p>
+<p style="text-indent:0;">Thực hiện bởi: [Họ tên sinh viên] | MSSV: [Mã số] | Ngày: 23/06/2026</p>
+</div>
+
+</body>
+</html>
